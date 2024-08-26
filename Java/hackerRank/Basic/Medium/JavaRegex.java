@@ -1,4 +1,4 @@
-package Java.hackerRank;
+package Java.hackerRank.Basic.Medium;
 
 /*
  * @Created At 26/08/2024

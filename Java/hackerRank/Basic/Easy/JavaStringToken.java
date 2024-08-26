@@ -1,9 +1,8 @@
-package Java.hackerRank;
+package Java.hackerRank.Basic.Easy;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.regex.Pattern;
 
 /*
  * @Created At 26/08/2024

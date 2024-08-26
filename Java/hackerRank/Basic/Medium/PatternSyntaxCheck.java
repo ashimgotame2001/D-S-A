@@ -1,4 +1,4 @@
-package Java.hackerRank;
+package Java.hackerRank.Basic.Medium;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
